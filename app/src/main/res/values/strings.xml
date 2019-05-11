@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DatVeTauOnline</string>
+
+    <!-- Thong tin nguoi dung -->
+    <string name="your_name">Họ và tên:</string>
+    <string name="your_phone">Số điện thoại: </string>
+
+    <string name="your_member">Thành viên</string>
+    <string name="is_vip">VIP</string>
+    <string name="is_normal">Thường</string>
+
+    <string name="type_ticker">Loại vé</string>
+    <string name="type_bed">Giường nằm</string>
+    <string name="type_chair">Ghế ngồi</string>
+
+    <string name="dichvu">Dịch vụ (nước uống, thức ăn, đồ dự phòng)</string>
+
+    <string name="thanh_toan">Thanh toán</string>
+    <string-array name="thanhtoan_array">
+        <item>USD</item>
+        <item>VND</item>
+    </string-array>
+
+
+    <string name="btn_ok">Xác nhận</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
